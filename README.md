@@ -16,11 +16,6 @@ $ npm start
 
 With `yo` you can generate additional code with Flux generators:
 
-#### Components
-```bash
-$ yo flux:component ComponentName
-```
-
 #### Actions
 ```bash
 $ yo flux:action ActionCreatorName
